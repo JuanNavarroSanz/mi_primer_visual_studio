@@ -1,0 +1,6 @@
+#Directorios que no quiero versionar
+Library
+Logs
+Packages
+ProjectSettings
+.gitignore
